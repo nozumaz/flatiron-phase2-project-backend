@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Phoenix",
       "image": "https://img1.picmix.com/output/stamp/normal/9/9/7/2/1082799_b52a8.png",
-      "notes": "Mythical fire bird."
+      "notes": "Mythical fire bird that can reincarnate from its ashes."
     },
     {
       "id": 2,
@@ -47,12 +47,6 @@
       "name": "Sphinx",
       "image": "https://raw.githubusercontent.com/Bira/octopus-carnival/main/assets/wir-mm2-4e-sphinx.png",
       "notes": "Egyptian cat creature, usually with wings."
-    },
-    {
-      "name": "fea",
-      "image": "https://cdn.pixabay.com/photo/2016/11/29/03/28/fox-1867062_640.jpg",
-      "notes": "dfa",
-      "id": 9
     }
   ]
 }
