@@ -1,57 +1,57 @@
 {
-  "toys": [
+  "creatures": [
     {
       "id": 1,
-      "name": "Woody",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "notes": "a"
+      "name": "Phoenix",
+      "image": "https://img1.picmix.com/output/stamp/normal/9/9/7/2/1082799_b52a8.png",
+      "notes": "Mythical fire bird."
     },
     {
       "id": 2,
-      "name": "Buzz Lightyear",
-      "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "notes": "b"
+      "name": "Thunderbird",
+      "image": "https://4.bp.blogspot.com/-ifxRN1OHrhw/UZgOWHYfjWI/AAAAAAAAOGo/QNy7IReTyP4/s640/thunderbird__matt_bulahao.png",
+      "notes": "Native American bird of lightning and thunder."
     },
     {
       "id": 3,
-      "name": "Mr. Potato Head",
-      "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "notes": "c"
+      "name": "Dragon",
+      "image": "https://static.displate.com/280x392/displate/2023-03-09/bfe2e2b9ae02b6f4c2652a94bc80a940_95efa14d7715c5477c4b0d2556a87ed8.jpg",
+      "notes": "Reptile, often with wings and capacity to breathe fire, ice, or other materials."
     },
     {
       "id": 4,
-      "name": "Slinky Dog",
-      "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "notes": ""
+      "name": "Griffin",
+      "image": "https://pm1.aminoapps.com/6665/3dadc12009f99dcd84b65d07e492fac932b3ac08_00.jpg",
+      "notes": "Creature with eagle head and lion body."
     },
     {
       "id": 5,
-      "name": "Rex",
-      "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
-      "notes": ""
+      "name": "Chimera",
+      "image": "https://i.pinimg.com/564x/64/9c/3b/649c3bc920f0d0ecc7a7448735d90590.jpg",
+      "notes": "Hybrid creature, usually with lion, ram, and snake heads."
     },
     {
       "id": 6,
-      "name": "Bo Peep",
-      "image": "http://4.bp.blogspot.com/_OZHbJ8c71OM/Sog43CMFX2I/AAAAAAAADEs/0AKX0XslD4g/s400/bo.png",
-      "notes": ""
+      "name": "Gargoyle",
+      "image": "https://i.pinimg.com/originals/54/a1/c8/54a1c85c7bbe100b23cbac419b283773.jpg",
+      "notes": "Gothic creature that can turn into a stone statue."
     },
     {
       "id": 7,
-      "name": "Hamm",
-      "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "notes": ""
+      "name": "Manticore",
+      "image": "https://goggleofhindsight.files.wordpress.com/2019/09/manticore-photo.jpg",
+      "notes": "Hybrid creature, usually with human or lion head, wings, and scorpion tail."
     },
     {
       "id": 8,
-      "name": "Little Green Men",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "notes": ""
+      "name": "Sphinx",
+      "image": "https://raw.githubusercontent.com/Bira/octopus-carnival/main/assets/wir-mm2-4e-sphinx.png",
+      "notes": "Egyptian cat creature, usually with wings."
     },
     {
-      "name": "fe",
-      "image": "https://i.imgur.com/5Bqrc38.jpeg",
-      "notes": "ga",
+      "name": "fea",
+      "image": "https://cdn.pixabay.com/photo/2016/11/29/03/28/fox-1867062_640.jpg",
+      "notes": "dfa",
       "id": 9
     }
   ]
